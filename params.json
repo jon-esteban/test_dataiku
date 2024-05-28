@@ -118,7 +118,7 @@
     "users": []
   },
   "tutorialProject": true,
-  "tutorialId": "DKU_HAIKU_STARTER",
+  "tutorialId": "TUT_GITFORPROJECTS",
   "settings": {
     "flowAnchorSourcesAndSinks": true,
     "flowDisplaySettings": {
@@ -242,7 +242,8 @@
     },
     "dkuProperties": []
   },
-  "name": "Git for Projects",
+  "name": "Git for Projects for jon.esteban",
+  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "showInitials": false,
   "metrics": {
